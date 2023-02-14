@@ -1,0 +1,73 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    background-color: grey;
+    margin: 0px;
+}
+p{
+    font-size: 26px;
+}
+
+header {
+    background-color: #364552;
+    color: whitesmoke;
+    padding: 20px 20px;
+    border-radius: 20px;
+    margin: 10px; 
+}
+.menu{
+    display: inline-block;
+    margin: 10px;
+}
+
+.botones{
+    position: relative;
+    margin-left: 80%;
+    display: inline-block;
+    background-color: #364552;
+    
+}
+button{
+    background-color: #364552;
+    color: whitesmoke;
+    border: 0;
+    padding: 20px;
+    font-size: 50px;
+    cursor: pointer;
+}
+.pestaña_main{
+    background-color: white;
+    color: black;
+    padding: 20px 20px;
+    border-radius: 30px;
+    margin: 10px;
+}
+.titulo_pestaña{
+    background-color: #364552;
+    margin: 0;
+    padding: 10px 10px;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+}
+.informacion{
+    width: 500px;
+    height: 350px;
+}
+.pestaña_main-p{
+    position: relative ;
+    margin-left: 600px;
+    top: 40px;
+    width: 500px;
+    height: 350px;
+}
+img{
+    float: left;
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 2%;
+    margin-left: 40px ;
+    margin-top: 40px;  
+}
